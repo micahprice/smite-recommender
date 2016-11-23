@@ -1,0 +1,1 @@
+"SmiteAPI (ver 3.18.0.33166) [PATCH - 3.20] - Ping successful. Server Date:11/6/2016 7:08:38 PM"
