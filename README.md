@@ -12,7 +12,8 @@ Unfortunately, at the moment, the only way to access it is by having [Jupyter](h
 
 
 ## Examples
--[**Kumbhakarna** w/ **Neith**] (https://rawgit.com/micahprice/smite-recommender/master/smite-recommender-widget-output-example.html)
+- [**Kumbhakarna** w/ **Neith**] (https://rawgit.com/micahprice/smite-recommender/master/smite-recommender-widget-output-example.html)
+- [**Izanami** vs **Erlang Shen**] (https://rawgit.com/micahprice/smite-recommender/master/smite-recommender-widget-output-example2.html)
 - More examples can be found at [https://becausewhyexactly.com] (https://becausewhyexactly.com/2016/11/18/can-machine-learning-increase-your-win-rate-in-smite/)
 
 
