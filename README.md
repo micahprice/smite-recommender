@@ -5,11 +5,11 @@ What items go well with/against certain gods in Smite? Let's find out!
 
 A regularized logistic regression supplies a rating for each item as it tries to predict which items lead to a win. Using this information, we suggest useful alternatives to the most popular items used.
 
-You can interact with the different item recommendations using the `smite-recommender-widget` [notebook](https://github.com/micahprice/smite-recommender/blob/master/smite-recommender-widget.ipynb). More information about the recommendations there.
+You can interact with different item recommendations using the `smite-recommender-app` [Shiny app](http://micahprice.shinyapps.io/smite-recommender-app) hosted by R Studios. Check it out! More information about the recommendations there. Due to size restrictions the app only has information for Conquest and Duel game modes.
 
-Unfortunately, at the moment, the only way to access it is by having [Jupyter](http://jupyter.org/) installed, downloading the notebook and the [SMITE_recommendations] (https://github.com/micahprice/smite-recommender/tree/master/SMITE_recommendations) folder in the same directory, and running the notebook through Jupyter. You will also need to have [`ipywidgets`] (https://github.com/ipython/ipywidgets#install) installed.
+You can also interact with the different item recommendations using the `smite-recommender-widget` [notebook](https://github.com/micahprice/smite-recommender/blob/master/smite-recommender-widget.ipynb). The widget is a bit prettier than the Shiny app. Unfortunately, at the moment, the only way to access it is by having [Jupyter](http://jupyter.org/) installed, downloading the notebook and the [SMITE_recommendations] (https://github.com/micahprice/smite-recommender/tree/master/SMITE_recommendations) folder in the same directory, and running the notebook through Jupyter. You will also need to have [`ipywidgets`] (https://github.com/ipython/ipywidgets#install) installed.
 
-
+EDIT: You can now interact with http://micahprice.shinyapps.io/smite-recommender-app
 
 ## Examples
 - [**Kumbhakarna** w/ **Neith**] (https://rawgit.com/micahprice/smite-recommender/master/smite-recommender-widget-output-example.html)
