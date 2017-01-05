@@ -1,6 +1,6 @@
 # smite-recommender
 
-What items go well with/against certain gods in Smite? Let's find out!
+What items go well with/against certain gods in Smite? Find out [here](http://micahprice.shinyapps.io/smite-recommender-app)!
 
 
 A regularized logistic regression supplies a rating for each item as it tries to predict which items lead to a win. Using this information, we suggest useful alternatives to the most popular items used.
